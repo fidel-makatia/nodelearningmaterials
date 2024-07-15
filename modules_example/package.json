@@ -1,0 +1,15 @@
+{
+  "name": "modules_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "https.mjs",
+  "scripts": {
+    "start": "node https.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fidel Makatia",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
